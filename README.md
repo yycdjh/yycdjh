@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yycdjh&layout=compact&theme=buefy&hide_border=true" alt="" />
+
 <!--
 **yycdjh/yycdjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<code><img src="https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript"/></code><code><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript"/></code>
+
+[![yycdjh](https://github-readme-stats.vercel.app/api?username=yycdjh)](https://github.com/anuraghazra/github-readme-stats)
