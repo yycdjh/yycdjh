@@ -18,7 +18,11 @@
 - 📫 How to reach me? Email: 591883039@qq.com
 - 🌱 I’m currently learning ...
 
-<code><img src="https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript"/></code><code><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript"/></code><code><img src="https://img.shields.io/badge/-Vitest-black?style=for-the-badge&logo=Vitest"/></code><code><img src="https://img.shields.io/badge/-nestjs-black?style=for-the-badge&logo=nestjs"/></code>
+<code><img src="https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript"/></code>
+<code><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript"/></code>
+<code><img src="https://img.shields.io/badge/-Vitest-black?style=for-the-badge&logo=Vitest"/></code>
+<code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yycdjh&layout=compact&theme=buefy&hide_border=true" alt="" />
 
